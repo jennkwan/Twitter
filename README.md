@@ -2,7 +2,7 @@
 
 **Twitter** is a basic twitter app to read and compose tweets the [Twitter API](https://apps.twitter.com/).
 
-Time spent: ** God knows how many ** hours spent in total
+Time spent: ** 15 ** hours spent in total
 
 ## User Stories
 
@@ -48,7 +48,7 @@ I had been struggleing with autoLayout but now it is getting ebtter. Practice ma
 
 ## License
 
-Copyright [2015] [Jennifer Kwan]
+Copyright [2016] [Jennifer Kwan]
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
