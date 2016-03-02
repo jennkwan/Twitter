@@ -1,8 +1,8 @@
 # Project 4 - *Twitter*
 
-**Name of your app** is a basic twitter app to read and compose tweets the [Twitter API](https://apps.twitter.com/).
+**Twitter** is a basic twitter app to read and compose tweets the [Twitter API](https://apps.twitter.com/).
 
-Time spent: ** ~40+ ** hours spent in total
+Time spent: ** God knows how many ** hours spent in total
 
 ## User Stories
 
@@ -48,7 +48,7 @@ I had been struggleing with autoLayout but now it is getting ebtter. Practice ma
 
 ## License
 
-Copyright [2015] [Carlos Osco]
+Copyright [2015] [Jennifer Kwan]
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
@@ -118,7 +118,7 @@ It was very difficult to implement the navigation bar and then deal with the seg
 
 ## License
 
-Copyright [2016] [Twitter]
+Copyright [2016] [Jennifer Kwan]
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
