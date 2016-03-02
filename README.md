@@ -2,7 +2,7 @@
 
 **Twitter** is a basic twitter app to read and compose tweets the [Twitter API](https://apps.twitter.com/).
 
-Time spent: ** 15 ** hours spent in total
+Time spent: ** 25 ** hours spent in total
 
 ## User Stories
 
@@ -27,8 +27,7 @@ The following **additional** features are implemented:
 
 Please list two areas of the assignment you'd like to **discuss further with your peers** during the next class (examples include better ways to implement something, how to extend your app in certain ways, etc):
 
-1. Segues and their priorities
-2. More JSON
+
 
 ## Video Walkthrough 
 
@@ -42,8 +41,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
-One of the main challenges was to help to get through the videos but it was possible to do it thanks to the wonderful doc made my the students leaders Katherine and Tejen.
-I had been struggleing with autoLayout but now it is getting ebtter. Practice makes it better.
+
 
 
 ## License
@@ -98,8 +96,7 @@ The following **additional** features are implemented:
 
 Please list two areas of the assignment you'd like to **discuss further with your peers** during the next class (examples include better ways to implement something, how to extend your app in certain ways, etc):
 
-1. Segueway with identifier and how important is to pass the data
-2. How to deal with Tar Navigation bar instead of manually implement the code
+
 
 ## Video Walkthrough 
 
